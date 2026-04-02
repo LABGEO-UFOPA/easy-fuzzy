@@ -1,0 +1,16 @@
+[general]
+name=Easy Fuzzy
+description=Step-by-step Easy fuzzy plugin for QGIS with trainning, fuzzyfication, overlay, sensitivity, reclassification, and validation
+version=1.1.0
+qgisMinimumVersion=3.0
+author=Antonio Henrique Cordeiro Ramalho - GAPEG
+email=none
+category=Raster
+icon=icon.png
+about=Step-by-step Easy fuzzy plugin for QGIS, including raster input, trainning, fuzzy membership setup, overlay analysis, sensitivity analysis, reclassification, validation, and HTML reporting.
+tracker=
+repository=
+homepage=
+tags=fuzzy,qgis,raster,overlay,membership,sensitivity,reclassification,validation,html
+experimental=False
+deprecated=False
