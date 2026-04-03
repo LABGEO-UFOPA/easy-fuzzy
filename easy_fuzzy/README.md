@@ -19,12 +19,14 @@ Version 1.1.0
 ## Modules
 - Project
 - Input Rasters
+- Trainng & validation
 - Fuzzy Configuration
 - Overlay
 - Results
 - Sensitivity Analysis
 - Reclassification
 - Validation
+- Generate report
 - About
 
 ## Developed by
