@@ -1,4 +1,4 @@
-# Fuzzy Workflow QGIS
+# Easy Fuzzy
 
 A QGIS plugin with a step-by-step interface for complete fuzzy modeling workflows.
 
